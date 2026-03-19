@@ -1,0 +1,7 @@
+interface:
+  display_name: "Feishu Doc Image Uploader"
+  short_description: "Upload local images into Feishu docs"
+  default_prompt: "Use $feishu-doc-image-uploader to insert a local image into a Feishu document."
+
+policy:
+  allow_implicit_invocation: true
